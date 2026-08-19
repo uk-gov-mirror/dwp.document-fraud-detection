@@ -16,6 +16,6 @@
     "govuk-frontend": "6.4.0",
     "govuk-prototype-kit": "13.20.3",
     "hmrc-frontend": "7.28.0",
-    "uuid": "14.0.0"
+    "uuid": "14.0.1"
   }
 }
